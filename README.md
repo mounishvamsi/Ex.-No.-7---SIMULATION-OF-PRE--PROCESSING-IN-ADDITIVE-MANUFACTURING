@@ -39,14 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![Screenshot 2024-12-04 104827](https://github.com/user-attachments/assets/874d5eb5-b5f1-4fd5-8d18-e5369424a7ed)
+![Screenshot 2024-12-04 105535](https://github.com/user-attachments/assets/84ef4e5b-326c-4f7b-8cd5-d03f065a219a)
+![Screenshot 2024-12-04 105955](https://github.com/user-attachments/assets/e83993a2-2141-44be-bcf1-d21e84d22f38)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:R.Mounish vamsi kumar
+### Register Number:24003774
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
