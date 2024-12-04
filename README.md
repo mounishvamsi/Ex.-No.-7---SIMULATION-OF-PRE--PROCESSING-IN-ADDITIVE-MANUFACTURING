@@ -41,7 +41,7 @@
 ## OUTPUT:
 ![Screenshot 2024-12-04 104827](https://github.com/user-attachments/assets/874d5eb5-b5f1-4fd5-8d18-e5369424a7ed)
 ![Screenshot 2024-12-04 105535](https://github.com/user-attachments/assets/84ef4e5b-326c-4f7b-8cd5-d03f065a219a)
-![Screenshot 2024-12-04 105955](https://github.com/user-attachments/assets/e83993a2-2141-44be-bcf1-d21e84d22f38)
+![Screenshot 2024-12-04 110220](https://github.com/user-attachments/assets/132b3190-a4a9-44d1-99c2-091d44fd7009)
 
 
 ## Output:
